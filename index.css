@@ -1,0 +1,10 @@
+
+@font-face {
+  font-family: 'Source Code';
+  src: url('fonts/source-code-semibold.eot');
+  src: url('fonts/source-code-semibold.eot?#iefix') format('embedded-opentype'),
+       url('fonts/source-code-semibold.woff') format('woff'),
+       url('fonts/source-code-semibold.ttf') format('truetype');
+  font-weight: 600;
+  font-style: normal;
+}
